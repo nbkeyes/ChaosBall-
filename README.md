@@ -1,2 +1,6 @@
 # ChaosBall-
 In this game, the objective is to get the yellow balls into the corner with a yellow light, while there are other balls bouncing around the scene at the same time. The other balls that are bouncing around the scene are meant to be obsticles put in place so that the game will not be too easy, and these balls have the ability to hit the yellow balls that you need to get into the yellow corner as well as other balls in the game. If the non yellow balls hit another non yellow ball then they bouce off of each other while also increasing the overall speed from hitting against one another. As the ball continue to hit off of each other they will continue to speed up. making it harder for the player to get the yellow ball into the yellow corner. 
+
+<img width="1440" alt="Screen Shot 2019-09-11 at 7 33 01 AM" src="https://user-images.githubusercontent.com/31866993/64696313-19727a00-d46c-11e9-9e97-141f3aeceaf2.png">
+<img width="1440" alt="Screen Shot 2019-09-11 at 7 32 44 AM" src="https://user-images.githubusercontent.com/31866993/64696521-9998df80-d46c-11e9-9a04-6d260c6407ec.png">
+<img width="1440" alt="Screen Shot 2019-09-11 at 7 31 55 AM" src="https://user-images.githubusercontent.com/31866993/64696542-a3bade00-d46c-11e9-80db-6e5cac1cec1a.png">
